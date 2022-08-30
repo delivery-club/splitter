@@ -1,4 +1,22 @@
 linters:
   enable:
+    - deadcode
+    - errcheck
+    - gas
     - gocritic
-    - revive
+    - gofmt
+    - goimports
+    - golint
+    - govet
+    - gosimple
+    - ineffassign
+    - megacheck
+    - misspell
+    - nakedret
+    - staticcheck
+    - structcheck
+    - typecheck
+    - unconvert
+    - unparam
+    - unused
+    - varcheck
