@@ -4,8 +4,6 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/delivery-club/splitter)](https://goreportcard.com/report/github.com/delivery-club/splitter)
 [![Go Reference](https://pkg.go.dev/badge/github.com/delivery-club/splitter.svg)](https://pkg.go.dev/github.com/delivery-club/splitter)
 
-![logo](docs/logo_small.png)
-
 `splitter` - concurrently numerate app instances.
 
 ### Features
